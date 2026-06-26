@@ -1,22 +1,21 @@
-# ☕ Starbucks Beverage Analytics Dashboard
+☕ Starbucks Beverage Analytics Dashboard
 
-## 📊 Project Overview
+📊 Project Overview
 
 The **Starbucks Beverage Analytics Dashboard** is an interactive Power BI project designed to analyze the nutritional composition of Starbucks beverages. The dashboard transforms raw nutritional data into meaningful business insights through dynamic visualizations, KPIs, and interactive filters, enabling users to explore beverage categories and compare key nutritional metrics.<br>
 
 This project demonstrates my ability to clean, analyze, visualize, and present data in a business-friendly format using Microsoft Power BI.<br>
 
-## 🎯 Business Objective<br>
+**🎯 Business Objective<br>**
 
 The objective of this project is to provide an interactive dashboard that helps users:<br>
-
 * Analyze the nutritional value of Starbucks beverages.<br>
 * Compare beverage categories based on calories, sugar, caffeine, and protein.<br>
 * Identify beverages with the highest caffeine content.<br>
 * Explore beverage preparation options using interactive filters.<br>
 * Support data-driven decision-making through visual analytics.<br>
 
-## 🛠️ Tools & Technologies<br>
+**🛠️ Tools & Technologies<br>**
 
 * Microsoft Power BI<br>
 * Microsoft Excel<br>
@@ -24,7 +23,7 @@ The objective of this project is to provide an interactive dashboard that helps 
 * Data Modeling<br>
 * Data Visualization<br>
 
-## 📈 Dashboard Features
+**📈 Dashboard Features**
 
 * Interactive KPI Cards<br>
 * Dynamic Slicers<br>
@@ -35,14 +34,14 @@ The objective of this project is to provide an interactive dashboard that helps 
 * Interactive Donut Chart<br>
 * Professional Starbucks-inspired Dashboard Design<br>
 
-## 📊 Key Performance Indicators (KPIs)<br>
+**📊 Key Performance Indicators (KPIs)<br>**
 
 * Total Beverages<br>
 * Average Sugar<br>
 * Average Calories<br>
 * Average Caffeine<br>
 
-## 📌 Dashboard Insights<br>
+**📌 Dashboard Insights<br>**
 
 * Coffee-based beverages generally contain the highest caffeine levels.<br>
 * Beverage categories show significant variation in calorie content.<br>
@@ -50,11 +49,11 @@ The objective of this project is to provide an interactive dashboard that helps 
 * Interactive filters allow users to compare nutritional values across different beverage preparation methods.<br>
 * The dashboard enables quick identification of healthier beverage options.<br>
 
-## 📷 Dashboard Preview
+**📷 Dashboard Preview**
 
 <img width="1210" height="680" alt="image" src="https://github.com/user-attachments/assets/11a22f54-5510-463a-9914-65fc386a9700" />
 
-## 💡 Business Value
+**💡 Business Value**
 This dashboard demonstrates how interactive business intelligence solutions can help organizations:<br>
 
 * Monitor product nutrition.<br>
