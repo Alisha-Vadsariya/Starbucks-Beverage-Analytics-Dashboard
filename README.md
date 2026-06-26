@@ -1,6 +1,6 @@
-☕ Starbucks Beverage Analytics Dashboard
+**☕ Starbucks Beverage Analytics Dashboard**<br>
 
-📊 Project Overview
+**📊 Project Overview**<br>
 
 The **Starbucks Beverage Analytics Dashboard** is an interactive Power BI project designed to analyze the nutritional composition of Starbucks beverages. The dashboard transforms raw nutritional data into meaningful business insights through dynamic visualizations, KPIs, and interactive filters, enabling users to explore beverage categories and compare key nutritional metrics.<br>
 
@@ -53,7 +53,7 @@ The objective of this project is to provide an interactive dashboard that helps 
 
 <img width="1210" height="680" alt="image" src="https://github.com/user-attachments/assets/11a22f54-5510-463a-9914-65fc386a9700" />
 
-**💡 Business Value**
+**💡 Business Value**<br>
 This dashboard demonstrates how interactive business intelligence solutions can help organizations:<br>
 
 * Monitor product nutrition.<br>
